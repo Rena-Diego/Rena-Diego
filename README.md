@@ -1,4 +1,4 @@
-## Hi there :raised_hands:
+## Olá :raised_hands:
 
 Eu sou Renã Diego um Programador Front End em transição de carreira, atualmente estou aprendendo e criando projetos com:
 <br>
